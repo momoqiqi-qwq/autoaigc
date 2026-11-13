@@ -8,7 +8,7 @@
 
 </div>
 
-<details>
+<details open>
 <summary><b>目录</b></summary>
 
 - [它解决的几个具体问题](#它解决的几个具体问题)
@@ -20,6 +20,8 @@
 - [版本](#版本)
 
 </details>
+
+---
 
 ---
 
