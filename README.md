@@ -1,3 +1,28 @@
+<div align="center">
+
+<img src="./assets/readme-hero.svg" alt="autoaigc" width="1000" />
+
+**本地优先的 AIGC 率工作流 skill**
+
+[![stars](https://img.shields.io/github/stars/momoqiqi-qwq/autoaigc?style=for-the-badge&color=f5c518&labelColor=2b2b2b)](https://github.com/momoqiqi-qwq/autoaigc/stargazers) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>目录</b></summary>
+
+- [它解决的几个具体问题](#它解决的几个具体问题)
+- [优先级](#优先级)
+- [依赖](#依赖)
+- [快速开始](#快速开始)
+- [安装到 skills 目录](#安装到-skills-目录)
+- [三条不要忘](#三条不要忘)
+- [版本](#版本)
+
+</details>
+
+---
+
 # autoaigc
 
 本地优先的 AIGC 率工作流 skill —— 先在本机把「这段会被判成 AI 吗」量成一个数字，再决定动不动手，改完必须复检。
