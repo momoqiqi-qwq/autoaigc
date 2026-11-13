@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="./assets/readme-hero.svg" alt="autoaigc" width="1000" />
+<img src="./assets/hero.svg" alt="autoaigc" width="1000" />
 
 **本地优先的 AIGC 率工作流 skill**
 
 [![stars](https://img.shields.io/github/stars/momoqiqi-qwq/autoaigc?style=for-the-badge&color=f5c518&labelColor=2b2b2b)](https://github.com/momoqiqi-qwq/autoaigc/stargazers) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
+
+---
 
 <details open>
 <summary><b>目录</b></summary>
